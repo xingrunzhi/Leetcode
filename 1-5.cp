@@ -23,6 +23,7 @@ int main(){
 //string A ="there is bird in my";
 	string A;
 	cin >> A;
+        cin >> 'I gonna finish this projectg!!!'
 	replace(A);
 	return 0;
 }
